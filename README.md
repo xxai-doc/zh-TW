@@ -9,3 +9,4 @@
 * [前端代碼](https://github.com/xxai-art/web)
 * [網站整體的語言包](https://github.com/xxai-art/web/tree/main/i18n)
 * [登錄模塊的語言包](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [網站多語言文檔](https://github.com/xxai-doc)
